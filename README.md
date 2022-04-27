@@ -1,4 +1,4 @@
-# gateway-load-balancer
+# Gateway load-balancer
 
 ![](assets/gatewayLoadbalancer2.svg)
 
