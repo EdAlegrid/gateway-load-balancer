@@ -2,11 +2,15 @@
 
 ![](assets/gatewayLoadbalancer2.svg)
 
-## A quick demo on how to create a simple gateway load balancer using m2m.
+## Overview
+
+In this quick demo, everytime a client tries to access the gateway it will receive resources for each remote server in a round-robin method.
 
 Ideally each application process should be running on separate nodes or computers (5 computers).
 
-However for this quick demo you can just run each process in one computer.
+However for this demo you can just run each process in one computer.
+
+<br>
 
 You need to register 4 devices using the device id of **1200**, **100**, **200**, **300**.
 
