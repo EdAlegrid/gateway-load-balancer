@@ -14,7 +14,7 @@ However for this demo you can just run each process in one computer.
 
 You need to register 4 devices using the device id of **1200**, **100**, **200**, **300**.
 
-You can follow the step-by-step procedure below and create the necessary directories as you go along or just git clone the project repository and just install m2m to each directory components.
+You can follow the step-by-step procedure and create the necessary directories as you go along or just git clone the project repository and just install m2m to each directory components.
 
  To git clone this project, use the command below.  
  ```js
