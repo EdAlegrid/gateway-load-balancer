@@ -97,12 +97,12 @@ $ node device.js
 
 <br>
 
-### 3. Create server2 and server3 directory and install m2m
+### 3. Create server2 and server3 directories and install m2m
 Follow the same procedure as with server1.
 
 Save the same code but change the **deviceId** to **200** and **300** respectively instead of **100**.
 
-Start each server the same with the 1st server.
+Start each server the same way with the 1st server.
 ```js
 $ node device.js
 ```
