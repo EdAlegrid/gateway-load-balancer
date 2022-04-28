@@ -4,11 +4,22 @@
 
 ## A quick demo on how to create a simple gateway load balancer using m2m.
 
-Ideally each application process should be running on a separate nodes or computers (5 computers).
+Ideally each application process should be running on separate nodes or computers (5 computers).
 
-However for a quick demo you can just run each process in one computer.
+However for this quick demo you can just run each process in one computer.
+
+You need to register 4 devices using the device id of **1200**, **100**, **200**, **300**.
+
+You can follow the step-by-step procedure below and create the necessary directories as you go along or just git clone the project repository and just install m2m to each directory components.
+
+ To git clone this project, use the command below.  
+ ```js
+$ git clone https://github.com/EdAlegrid/gateway-load-balancer.git
+```
 
 <br>
+
+## Procedure 
 
 ### 1. Create a gatewate directory and install m2m
 
