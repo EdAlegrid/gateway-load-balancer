@@ -4,6 +4,12 @@
 
 ## A quick demo on how to create a simple gateway load balancer using m2m.
 
+Ideally each application process should be running on a separate nodes or computers (5 computers).
+
+However for a quick demo you can just run each process in one computer.
+
+<br>
+
 ### 1. Create a gatewate directory and install m2m
 
 ```js
@@ -54,6 +60,8 @@ Start your gateway application.
 $ node device.js
 ```
 
+<br>
+
 ### 2. Create a server1 directory and install m2m
 Save the code below as device.js to run your 1st server.
 ```js
@@ -76,6 +84,8 @@ Start your 1st server application.
 $ node device.js
 ```
 
+<br>
+
 ### 3. Create a server2 and server3 directory and install m2m
 Follow the same procedure as with server1.
 
@@ -85,6 +95,8 @@ Start each server the same with the 1st server.
 ```js
 $ node device.js
 ```
+
+<br>
 
 ### 4. Create a client directory and install m2m
 Save the code below as client.js.
