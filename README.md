@@ -77,7 +77,7 @@ $ node device.js
 
 <br>
 
-### 2. Create a server1 directory and install m2m
+### 2. Create server1 directory and install m2m
 Save the code below as device.js to run your 1st server.
 ```js
 'use strict';
