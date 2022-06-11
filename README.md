@@ -93,7 +93,7 @@ server.connect(() => {
 });
 ```
 
-Start your 1st server application.
+Start server1 application.
 
 ```js
 $ node device.js
@@ -106,7 +106,7 @@ Follow the same procedure as with server1.
 
 Save the same code but change the **deviceId** to **200** and **300** respectively instead of **100**.
 
-Start each server the same way with the 1st server.
+Start each server the same way with server1.
 ```js
 $ node device.js
 ```
