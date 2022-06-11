@@ -25,7 +25,7 @@ $ git clone https://github.com/EdAlegrid/gateway-load-balancer.git
 
 ## Procedure 
 
-### 1. Create a gatewate directory and install m2m
+### 1. Create a gateway directory and install m2m
 
 ```js
 $ npm install m2m
